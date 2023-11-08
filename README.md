@@ -31,12 +31,3 @@ Explore the project's Jupyter Notebook files for a detailed breakdown of the pro
 
 - Python 3.x
 - Jupyter Notebook
-- Necessary Python libraries (refer to requirements.txt)
-
-## Acknowledgments
-
-A special acknowledgment to [Dataset Source] for providing the Ecommerce Customer dataset.
-
----
-
-Feel free to adjust any details to better suit your project. Once you're satisfied, incorporate this README template into your project repository.
